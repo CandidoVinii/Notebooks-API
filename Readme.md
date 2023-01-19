@@ -29,8 +29,10 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
 
   ### 👉 Sem Docker
 <details>
-  > Clone o repositório com o comando `git clone git@github.com:CandidoVinii/Notebooks-API.git`.
+  > Clone o repositório com o comando
+  `git clone git@github.com:CandidoVinii/Notebooks-API.git`.
   
+  > Vá para a pasta do repositório
   `cd Notebooks-API/`
 
   > Rode o comando `npm install` para instalar as dependências necessárias para o projeto.
