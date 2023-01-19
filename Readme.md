@@ -18,9 +18,9 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
   #### Não encontrei uma solução para a API rodar dentro de um container, visto que a dependencia do puppeter necessita de um navegador para realizar as ações.
 
 <details>
-  > Rode o comando `docker push vini1212/notebooks-api:lastest`.
+  - Rode o comando `docker push vini1212/notebooks-api:lastest`.
 
-  > Após fazer o push da imagem docker rode o comando `docker run -p 3000:3000 notebooks-api`.
+  - Após fazer o push da imagem docker rode o comando `docker run -p 3000:3000 notebooks-api`.
 
   - A partir daqui você terá um container rodando na sua porta 3000;
 
@@ -29,13 +29,13 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
 
   ### 👉 Sem Docker
 <details>
-  > Clone o repositório com o comando
+  - Clone o repositório com o comando
   `git clone git@github.com:CandidoVinii/Notebooks-API.git`.
   
-  > Vá para a pasta do repositório
+  - Vá para a pasta do repositório
   `cd Notebooks-API/`
 
-  > Rode o comando `npm install` para instalar as dependências necessárias para o projeto.
+  - Rode o comando `npm install` para instalar as dependências necessárias para o projeto.
 
 </details>
 <br/>
