@@ -29,8 +29,9 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
 
   ### 👉 Sem Docker
 <details>
+ 
   - Clone o repositório com o comando
-  `git clone git@github.com:CandidoVinii/Notebooks-API.git`.
+`git clone git@github.com:CandidoVinii/Notebooks-API.git`
   
   - Vá para a pasta do repositório
   `cd Notebooks-API/`
@@ -48,9 +49,10 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
 * [Swagger](https://swagger.io/) - Para documentação da API
 
 ## :play_or_pause_button: Comandos Importantes
- * ``` npm start ``` para inicialização do servidor.
- * ``` npm run debug``` para inicialização do servidor (recomendado no ambiente de desenvolvimento).
- * ``` npm run start-gendoc ``` para atualizar a documentação do swagger.
+
+ * ```npm start``` para inicialização do servidor.
+ * ```npm run debug``` para inicialização do servidor (recomendado no ambiente de desenvolvimento).
+ * ```npm run start-gendoc``` para atualizar a documentação do swagger.
 
 ## Utilidades
 * Caso queira fazer uso da API estarei deixando uma collection do POSTMAN com todas as operações presentes.
